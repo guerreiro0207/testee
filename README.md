@@ -1,1 +1,3 @@
 # testee
+
+[MIT](LICENSE)
